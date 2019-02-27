@@ -1,0 +1,2 @@
+ERROR (2019-02-25 11:48:05):Error al ejecutar la consulta: DELETE FROM productos where id_we='7'
+ERROR (2019-02-25 11:50:21):Error al ejecutar la consulta: DELETE FROM productos where id_webs='7'
