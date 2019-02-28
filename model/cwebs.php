@@ -81,5 +81,11 @@ class CWebs extends CBBDD
 		}
 		return $info;
 	}
+	function Prueba()
+	{
+
+		echo "Hola que ase";
+		return 0;
+	}
 }
 ?>
